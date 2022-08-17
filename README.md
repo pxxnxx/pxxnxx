@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white" />
 
- ### BOJ 
+### BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phanre)](https://solved.ac/phanre/)
  
 ### Stats
