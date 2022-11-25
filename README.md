@@ -83,7 +83,9 @@
 - - -
 
 ### 4) [HIFI (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HIFI-Team)
-
+<div align="center">
+<img width="1000" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
+</div>
 - 수행 기간 : 2022.7 ~ 진행중
 - 주요 역할 : JPA를 이용해 유저와 관련된 테이블 생성 및 유저와 관련된 프로필, 검색, 팔로우 등의 기능을 Spring Boot와 React를 이용하여 BackEnd 및 FrontEnd 구현
 - 기술 스택 : Spring Boot - JAVA / React - JavaScript / Redis / AWS / Docker / VCS - Git, Github
