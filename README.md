@@ -16,9 +16,13 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white" />
 
+- - -
+
 ### BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phanre)](https://solved.ac/phanre/)
- 
+
+- - -
+
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=dark)
@@ -26,7 +30,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=tokyonight)
 -->
+
 - - -
+ 
+### Projects
  
 ### 1) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
 
