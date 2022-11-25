@@ -47,7 +47,7 @@
 
 - - -
 
-### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/u-blinked/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -73,13 +73,13 @@
 
 - 연계/소속회사 : 홍익대학교 교내 관재팀
 - 수행 기간 : 2022.3 ~ 2022.8 (약 6개월 소요)
-- 주요 역할 : Python을 활용한 자동화 시스템 개발 및 자연어 처리, OA 파일 처리 등
+- 주요 역할 : Python의 Selenium을 활용한 자동화 시스템 개발 및 자연어 처리, OA 파일 처리 등
 - 기술 스택 : Python - Selenium, Regular Expression, Openpyxl, Pyinstaller / VCS - Git, Github
 - 업무 성과 : Hongik Accounting Management Advanced System로 교내 관재팀에서 사용하고 있는 회계업무 시스템을 자동화하기 위한 프로젝트입니다. Python을 활용하여 기존 시스템의 입력을 별도로 작성해 둔 파일을 기반으로 자동으로 작성하고 다양한 문자열 처리 및 예외케이스에 대응하여 오류 없이 작동하도록 개발하였습니다.
 
 - - -
 
-### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/pxxnxx/Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
@@ -88,6 +88,6 @@
  
 - 연계/소속회사 : 한이음 멘토링 사업
 - 수행 기간 : 2021.3 ~ 2021.11 (약 9개월 소요)
-- 주요 역할 : 아두이노 보드 구성 및 Python 기반의 OpenCV를 통한 영상처리, Selenium을 통한 쇼핑몰 리뷰 수집과 분석, Android 앱 구성과 디자인 등
+- 주요 역할 : Android Studio와 Java를 이용하여 App View 구성 및 AWS Server에 Python을 이용한 Arduino Cam 접근, DB Data 전송용 통신 서버 제작
 - 기술 스택 : Python - OpenCV / Arduino / Android OS / Server - AWS / DB - MySQL /  협업툴 - Notion / VCS - Git, Gitlab
 - 업무 성과 : 2021년 한이음 멘토링사업 프로젝트의 지원으로 진행된 프로젝트입니다. TTOKSHOW는 아두이도 보드를 활용하여 상품의 바코드를 인식하고 해당하는 데이터를 서버와 통신하여 DB에 저장된 데이터를 가져옵니다. 다양한 상품에 관한 리뷰와 상품 정보를 여러 쇼핑 사이트에서 자동으로 추출하여 통계 및 분석하고 이에 따른 결과를 사용자에게 보기 좋게 알려줍니다. 1년 간의 프로젝트 결과 한이음 공모전에 입상하였습니다.
