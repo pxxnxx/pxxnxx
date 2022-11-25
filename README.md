@@ -34,8 +34,20 @@
 - - -
  
 ### Projects
- 
-### 1) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+
+### 1) [HIFI (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HIFI-Team)
+<div align="center">
+<img width="420" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
+</div>
+
+- 수행 기간 : 2022.7 ~ 진행중
+- 주요 역할 : JPA를 이용해 유저와 관련된 테이블 생성 및 유저와 관련된 프로필, 검색, 팔로우 등의 기능을 Spring Boot와 React를 이용하여 BackEnd 및 FrontEnd 구현
+- 기술 스택 : Spring Boot - JAVA / React - JavaScript / Redis / AWS / Docker / VCS - Git, Github
+- 업무 성과 : 많은 사람들이 가장 고민인 메뉴 정하기를 해결해 줄 수 있는 웹사이트입니다. 친구들과 맛집 리뷰를 공유하고 서로 리뷰에 답글을 남길 수 있어 친목 도모 및 새로운 맛집 발견이 가능합니다. 현재도 진행중에 있습니다.
+
+- - -
+
+### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -52,7 +64,7 @@
 
 - - -
 
-### 2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 3) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -67,7 +79,7 @@
 
 - - -
 
-### 3) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
@@ -79,14 +91,3 @@
 - 주요 역할 : 아두이노 보드 구성 및 Python 기반의 OpenCV를 통한 영상처리, Selenium을 통한 쇼핑몰 리뷰 수집과 분석, Android 앱 구성과 디자인 등
 - 기술 스택 : Python - OpenCV / Arduino / Android OS / Server - AWS / DB - MySQL /  협업툴 - Notion / VCS - Git, Gitlab
 - 업무 성과 : 2021년 한이음 멘토링사업 프로젝트의 지원으로 진행된 프로젝트입니다. TTOKSHOW는 아두이도 보드를 활용하여 상품의 바코드를 인식하고 해당하는 데이터를 서버와 통신하여 DB에 저장된 데이터를 가져옵니다. 다양한 상품에 관한 리뷰와 상품 정보를 여러 쇼핑 사이트에서 자동으로 추출하여 통계 및 분석하고 이에 따른 결과를 사용자에게 보기 좋게 알려줍니다. 1년 간의 프로젝트 결과 한이음 공모전에 입상하였습니다.
-
-- - -
-
-### 4) [HIFI (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HIFI-Team)
-<div align="center">
-<img width="420" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
-</div>
-- 수행 기간 : 2022.7 ~ 진행중
-- 주요 역할 : JPA를 이용해 유저와 관련된 테이블 생성 및 유저와 관련된 프로필, 검색, 팔로우 등의 기능을 Spring Boot와 React를 이용하여 BackEnd 및 FrontEnd 구현
-- 기술 스택 : Spring Boot - JAVA / React - JavaScript / Redis / AWS / Docker / VCS - Git, Github
-- 업무 성과 : 많은 사람들이 가장 고민인 메뉴 정하기를 해결해 줄 수 있는 웹사이트입니다. 친구들과 맛집 리뷰를 공유하고 서로 리뷰에 답글을 남길 수 있어 친목 도모 및 새로운 맛집 발견이 가능합니다. 현재도 진행중에 있습니다.
