@@ -25,7 +25,7 @@
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=dark) -->
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=tokyonight)
