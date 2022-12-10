@@ -79,7 +79,7 @@
 
 - - -
 
-### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/pxxnxx/Hanium)
+### 4) [Ttokshow (바코드를 촬영하면 제품 리뷰를 시각화하여 보여주는 Android App)](https://github.com/pxxnxx/Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
