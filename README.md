@@ -35,7 +35,7 @@
  
 ### Projects
 
-### 1) [HIFI (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HIFI-Team)
+### 1) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HongEat-Team)
 <div align="center">
 <img width="420" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
 </div>
