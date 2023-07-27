@@ -35,19 +35,23 @@
  
 ### Projects
 
-### 1) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HongEat-Team)
+### 1) [Streetalk (소상공인을 위한 커뮤니티 iOS APP)](https://github.com/pxxnxx/Streetalk-Backend)
+
+### 2) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹사이트)](https://github.com/SSAFY9th)
+
+### 3) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HongEat-Team)
 <div align="center">
 <img width="420" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
 </div>
 
-- 수행 기간 : 2022.7 ~ 진행중
+- 수행 기간 : 2022.7 ~ 2022.9 / 2023.2 ~ 2023.4 (리팩토링)
 - 주요 역할 : JPA를 이용해 유저와 관련된 테이블 생성 및 유저와 관련된 프로필, 검색, 팔로우 등의 기능을 Spring Boot와 React를 이용하여 BackEnd 및 FrontEnd 구현
 - 기술 스택 : Spring Boot - JAVA / React - JavaScript / Redis / AWS / Docker / VCS - Git, Github
-- 업무 성과 : 많은 사람들이 가장 고민인 메뉴 정하기를 해결해 줄 수 있는 웹사이트입니다. 친구들과 맛집 리뷰를 공유하고 서로 리뷰에 답글을 남길 수 있어 친목 도모 및 새로운 맛집 발견이 가능합니다. 현재도 진행중에 있습니다.
+- 업무 성과 : 많은 사람들이 가장 고민인 메뉴 정하기를 해결해 줄 수 있는 웹사이트입니다. 친구들과 맛집 리뷰를 공유하고 서로 리뷰에 답글을 남길 수 있어 친목 도모 및 새로운 맛집 발견이 가능합니다.
 
 - - -
 
-### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/u-blinked/ublinked_SwiftUI)
+### 4) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/u-blinked/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -64,7 +68,7 @@
 
 - - -
 
-### 3) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 5) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -79,7 +83,7 @@
 
 - - -
 
-### 4) [Ttokshow (바코드를 촬영하면 제품 리뷰를 시각화하여 보여주는 Android App)](https://github.com/pxxnxx/Hanium)
+### 6) [Ttokshow (바코드를 촬영하면 제품 리뷰를 시각화하여 보여주는 Android App)](https://github.com/pxxnxx/Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
