@@ -44,6 +44,11 @@
 </div>
 
 - 수행 기간 : 2023.6 ~ 2023.7
+- 주요 역할 :
+- 기술 스택 :
+- 업무 성과 :
+
+- - -
  
 ### 2) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹사이트)](https://github.com/SSAFY9th)
 <div align="center">
@@ -51,6 +56,11 @@
 </div>
 
 - 수행 기간 : 2023.4 ~ 2023.6
+- 주요 역할 :
+- 기술 스택 :
+- 업무 성과 :
+
+- - -
 
 ### 3) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HongEat-Team)
 <div align="center">
