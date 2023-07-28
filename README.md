@@ -44,9 +44,9 @@
 </div>
 
 - 수행 기간 : 2023.6 ~ 2023.7
-- 주요 역할 :
-- 기술 스택 :
-- 업무 성과 :
+- 주요 역할 : 중단된 프로젝트의 미완성된 Backend 기능들을 구현하고, CI/CD 구축
+- 기술 스택 : Spring Boot - JAVA / Redis / AWS / Docker / Github Action
+- 업무 성과 : App Store에 어플 심사 중에 있습니다
 
 - - -
  
@@ -56,9 +56,9 @@
 </div>
 
 - 수행 기간 : 2023.4 ~ 2023.6
-- 주요 역할 :
-- 기술 스택 :
-- 업무 성과 :
+- 주요 역할 : 서비스 로직을 수행할 수 있도록 테이블을 구현하고, 여행 계획 관련 Backend API 구성 및 Vue로 간단한 API Response 받아오게 함
+- 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / Redis / AWS / Docker / Github Actions
+- 업무 성과 : 여행 계획을 쉽게 짜지 못하는 사람들의 고충을 줄여주고, 관리하기 편하게 하였습니다.
 
 - - -
 
