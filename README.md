@@ -35,7 +35,7 @@
  
 ### Projects
 
-### 1) [Streetalk (소상공인을 위한 커뮤니티 iOS APP)](https://github.com/pxxnxx/Streetalk-Backend)
+### 1) [Streetalk (소상공인을 위한 커뮤니티 iOS APP)](https://github.com/StreeTalk-EMPTY/Backend-New)
 <div align="center">
 <img width="190" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/35263152-144c-457f-9ece-bd5b3d56a3aa">
 <img width="190" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/4c79761e-859f-446e-807c-c37ec72f7529">
