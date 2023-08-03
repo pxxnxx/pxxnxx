@@ -47,7 +47,7 @@
 - 주요 역할 : 중단된 프로젝트의 미완성된 Backend 기능들(유저 차단 기능, 추천/스크랩/댓글단 글 확인, 게시판 속성에 맞는 글 전송, 유저 정보 수정 등)을 구현하고, DTO를 개편하고, CI/CD 시스템을 구축하였습니다
 - 기술 스택 : Spring Boot - JAVA / Redis / AWS / Docker / Github Action
 - 업무 성과 : :tada::tada: 2023.8.2 App Store에 출시 완료! :tada::tada:
-- [App Store 바로가기](https://apps.apple.com/kr/app/스트릿톡/id6451136628)
+- #### [<img width="15" alt="image" src="https://github.com/StreeTalk-EMPTY/Backend-New/assets/76719828/370cda0c-520f-4f40-b98e-a7690addf566"> App Store 바로가기](https://apps.apple.com/kr/app/스트릿톡/id6451136628)
 
 - - -
  
