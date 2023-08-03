@@ -51,7 +51,7 @@
 
 - - -
  
-### 2) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹사이트)](https://github.com/SSAFY9th)
+### 2) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹사이트)](https://github.com/Adventour/BackEnd)
 <div align="center">
 <img width="420" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/233e7fcc-06f2-4758-b67c-32201fd62114">
 </div>
