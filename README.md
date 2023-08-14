@@ -21,10 +21,11 @@
 ### BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phanre)](https://solved.ac/phanre/)
 
+<!--
 - - -
 
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=dark) 
+ ### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=dark) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxnxx&layout=compact&theme=dark) -->
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=tokyonight) 
