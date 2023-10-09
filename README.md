@@ -1,3 +1,8 @@
+### Info
+안녕하세요! Backend 개발자 김민석입니다.
+
+ <a href="https://phantom-coral-de2.notion.site/d3eb27680e1846838151f2449f6c46d3?pvs=4">📑 노션포트폴리오_바로가기</a><br><br> 
+
 ### Stack
 <p align = "left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
