@@ -41,7 +41,15 @@
  
 ### Projects
 
-### 1) [Streetalk (소상공인을 위한 커뮤니티 iOS APP)](https://github.com/StreeTalk-EMPTY/Backend-New)
+### 1) [Popplar (핫 플레이스 정보 및 소통을 도와주는 Android App)](https://github.com/Popplar-Dev/Popplar)
+
+- - -
+
+### 2) [Newstocks (주식 피드백을 도와주는 뉴스 기반 오답노트 웹 서비스)](https://github.com/NewStocks/NewStocks)
+
+- - -
+
+### 3) [Streetalk (소상공인을 위한 커뮤니티 iOS APP)](https://github.com/StreeTalk-EMPTY/Backend-New)
 <div align="center">
 <img width="190" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/35263152-144c-457f-9ece-bd5b3d56a3aa">
 <img width="190" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/4c79761e-859f-446e-807c-c37ec72f7529">
@@ -57,7 +65,7 @@
 
 - - -
  
-### 2) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹사이트)](https://github.com/Adventour/BackEnd)
+### 4) [Adventour (다른 사람들과 추천 여행지를 공유하고 후기를 나누는 웹 서비스)](https://github.com/Adventour/BackEnd)
 <div align="center">
 <img width="420" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/233e7fcc-06f2-4758-b67c-32201fd62114">
 </div>
@@ -69,7 +77,7 @@
 
 - - -
 
-### 3) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹사이트)](https://github.com/HongEat-Team)
+### 5) [HongEat (친구들과 홍익대학교 근처 맛집 리뷰를 공유하는 SNS 웹 서비스)](https://github.com/HongEat-Team)
 <div align="center">
 <img width="420" alt="hifiapp 다이어그램" src="https://user-images.githubusercontent.com/72291860/183354099-18137a55-9c37-4aa8-8726-c5de1fd4487c.png">
 </div>
@@ -81,7 +89,7 @@
 
 - - -
 
-### 4) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/u-blinked/ublinked_SwiftUI)
+### 6) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/u-blinked/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -98,7 +106,7 @@
 
 - - -
 
-### 5) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 7) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -113,7 +121,7 @@
 
 - - -
 
-### 6) [Ttokshow (바코드를 촬영하면 제품 리뷰를 시각화하여 보여주는 Android App)](https://github.com/pxxnxx/Hanium)
+### 8) [Ttokshow (바코드를 촬영하면 제품 리뷰를 시각화하여 보여주는 Android App)](https://github.com/pxxnxx/Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
