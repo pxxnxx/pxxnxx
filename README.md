@@ -43,10 +43,19 @@
 ### Projects
 
 ### 1) [Popplar (핫 플레이스 정보 및 소통을 도와주는 Android App)](https://github.com/Popplar-Dev/Popplar)
+- 수행 기간 : 2023.10 ~ 2023.11
+- 기술 스택 : Spring Boot - JAVA, Kotlin / AWS / Eureka / Docker / Jenkins
 
 - - -
 
 ### 2) [Newstocks (주식 피드백을 도와주는 뉴스 기반 오답노트 웹 서비스)](https://github.com/NewStocks/NewStocks)
+<div align="center">
+ <img width="420" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/fdcff817-594a-4cfd-b3db-16d6cc6a1af9">
+</div>
+
+- 수행 기간 : 2023.7 ~ 2023.9
+- 주요 역할 : OAuth를 사용한 간편 로그인 제공, 오답노트 생성/조회/수정/삭제 및 이미지 추가/삭제 처리, 회원/팔로우/스크랩 관련 커뮤니티 기능 구현 및 CI/CD 시스템을 구축하였습니다.
+- 기술 스택 : Spring Boot - JAVA / AWS / Docker / Jenkins
 
 - - -
 
