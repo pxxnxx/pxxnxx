@@ -43,7 +43,13 @@
 ### Projects
 
 ### 1) [Popplar (핫 플레이스 정보 및 소통을 도와주는 Android App)](https://github.com/Popplar-Dev/Popplar)
+<div align="center">
+ <img width="720" alt="image" src="https://github.com/pxxnxx/pxxnxx/assets/76719828/c89db087-b88d-4457-b898-c018cc877a11">
+</div>
+
+
 - 수행 기간 : 2023.10 ~ 2023.11
+- 주요 역할 : 실시간 채팅 기능, 멤버/쪽지/질문 관련 커뮤니티 기능 및 MSA 서버 간 서비스 로직 구현
 - 기술 스택 : Spring Boot - JAVA, Kotlin / AWS / Eureka / Docker / Jenkins
 
 - - -
